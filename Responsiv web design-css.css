@@ -1,0 +1,167 @@
+.img-sizing {
+    height: 85px;
+    width: 90px;
+    -padding: 10px;
+    border-radius: 10px;
+}
+#Nav-item-1 {
+    color: black;
+    font-family: roboto;
+}
+#Nav-item-2 {
+    color: rgba(0, 0, 0, 0.906);
+    font-family: roboto;
+}
+#Nav-item-3 {
+    color: rgba(0, 0, 0, 0.906);
+    font-family: roboto;
+}
+#Nav-item-4 {
+    color: rgba(0, 0, 0, 0.906);
+    font-family: roboto;
+}
+.marquee-tag-styleing {
+    color: rgb(96, 186, 6);
+    background-color: rgba(0, 0, 0, 0.72);
+    border-radius: 5px;
+    border-color: brown;
+    border-width: 1px;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.get-delicious-food-secton {
+    background-image: url("https://img.freepik.com/free-photo/front-view-female-courier-yellow-uniform-cape-holding-delivery-bowl-pink-wall-service-delivery-job-uniform-worker-girl_140725-43015.jpg?t=st=1723809749~exp=1723813349~hmac=4b466ef0e1dc29ad5e6d0ad2c241e3389503b64c4e04b62f0427c51bc1abb0a1&w=1380");
+    background-size: cover;
+    height: 80vh;
+    border-radius: 5px;
+}
+.gdf-title {
+    color: white;
+    font-family: roboto;
+    font-size: 28px;
+    font-weight: 700;
+    
+}
+.gdf-para {
+    color: white;
+    font-family: roboto;
+    font-size: 18px;
+    font-weight: 500;
+    
+}
+.view-menu {
+    background-color: rgb(237, 192, 57);
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 6px;
+    border-color: rgb(237, 167, 173);
+    color: rgb(35, 96, 16);
+    font-weight: 500;
+    border-width: 2px;
+}
+.order-now {
+    background-color: transparent;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 6px;
+    border-color: rgb(38, 134, 8);
+    color: rgb(237, 192, 57);
+    font-weight: 500;
+    border-width: 2px;
+}
+.marqu-styling {
+    background-color: rgb(58, 60, 60);
+    color: rgb(171, 207, 10);
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.wcu-section {
+    background-color: rgba(234, 239, 151, 0.909);
+    border-radius: 8px;
+}
+.wcu-section-heading {
+    font-family: roboto;
+    font-size: 28px;
+    font-weight: 700;
+    color: #183b56;
+}
+.wcu-section-discription {
+    font-family: roboto;
+    font-size: 16px;
+    color: #5a7184;
+}
+.wcu-card {
+    background-color: white;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+.wcu-card-img-sizing {
+    height: 90px;
+    width: 87px;
+}
+.wcu-card-title {
+    font-family: roboto;
+    font-size: 22px;
+    font-weight: 500;
+    color: #323f4b;
+}
+.wcu-card-discription {
+    font-family: roboto;
+    font-size: 16px;
+    font-weight: 300;
+    color: #7b8794;
+}
+.offers {
+    color: black;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.marqu-stylings {
+    background-color: rgb(58, 60, 60);
+    color: rgb(229, 226, 10);
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.ex-menu-bg {
+    background-color: #7b97f5;
+    background-size: cover;
+    height: auto;
+    border-radius: 10px;
+}
+.ex-menu-heading {
+    color: #183b56;
+    font-family: roboto;
+    font-size: 32px;
+    font-weight: 600;
+    
+}
+.ex-img-sizing-in {
+    border-radius: 8px;
+    
+}
+.ex-non-vg-starts {
+    font-family: roboto;
+    font-size: 18px;
+    color: #323f4b;
+    font-weight: 500;
+    margin-top:24px ;
+
+}
+.ex-menu-item-link {
+    font-family: roboto;
+    font-size: 14px;
+    font-weight: 500;
+    color: rgb(34, 33, 33);
+}
+.menu-item-card {
+    background-color: white;
+    border-radius: 16px;
+    border-width: 1px;
+    border-color: rgb(14, 2, 0);
+    border-style: solid;
+}
